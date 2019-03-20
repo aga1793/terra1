@@ -1,0 +1,6 @@
+
+host01 ansible_host=3.1.194.97
+
+[servers]
+host01
+
